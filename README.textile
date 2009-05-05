@@ -1,0 +1,11 @@
+h1. TO START
+
+register on "anti-captcha.com":http://anti-captcha.com/
+use invite **e806020b01**
+
+
+h1. INSTALL
+gem sources -a http://gems.github.com
+gem install anti-captcha
+
+
