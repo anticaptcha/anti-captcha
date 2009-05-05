@@ -1,10 +1,10 @@
-** TO START
+== TO START
 
 	register on http://anti-captcha.com/
-	use invite "e806020b01"
+	use invite <tt>e806020b01</tt>
 
 
-** INSTALL
+== INSTALL
 gem sources -a http://gems.github.com
 gem install anti-captcha
 
