@@ -1,7 +1,7 @@
 h1. TO START
 
 register on "anti-captcha.com":http://ac-service.info/
-use invite **8d8328d275**
+use invite **beb020a875**
 
 
 h1. INSTALL
